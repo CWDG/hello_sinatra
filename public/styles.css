@@ -1,0 +1,14 @@
+#footer {
+    padding: 20px;
+    width: 100%;
+}
+
+.blue {
+    background-color: #5D87B6;
+    border-top: #4C6F96;
+}
+
+.green {
+    background-color: #7AB55D;
+    border-top: #64964C;
+}
