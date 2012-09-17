@@ -35,5 +35,4 @@ You can then start the app by running
 
     ruby server.rb
     
-The app will be on localhost:4567/hi
-
+The app will be on localhost:4567
